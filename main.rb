@@ -4,4 +4,5 @@ class Main
   p "2"
   p "3"
   p "test5"
+  p "test6"
 end
